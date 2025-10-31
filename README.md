@@ -1,5 +1,5 @@
-<!-- Header -->
-<h1 align="center">👋 Hi, I'm Fernando Medina</h1>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:3ECF8E&height=160&section=header&text=Fernando%20Medina%20👨‍💻&fontSize=30&fontColor=FFFFFF&animation=twinkling)
+
 <h3 align="center">Systems Engineer | Full-Stack Developer | Flutter Specialist</h3>
 
 <p align="center">
@@ -10,14 +10,20 @@
 
 ---
 
-### 🧠 About Me  
-I’m a **Systems Engineer** and **Full-Stack Developer** passionate about designing scalable systems and building high-performance applications using **Flutter**.  
-I enjoy tackling complex technical problems, creating maintainable architectures, and delivering polished user experiences across **mobile**, **web**, and **desktop** platforms.
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter%20%7C%20Supabase%20%7C%20Clean%20Architecture%20%7C%20KYC%20Integration%20(MetaMap)-3ECF8E?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
 
-- 🚀 Focused on **clean architecture**, **BLoC pattern**, and **performance optimization**.  
-- ⚙️ Strong foundation in **backend systems**, **APIs**, and **real-time communication**.  
-- 🧩 Advocate for **modular code**, **testability**, and **scalability**.  
-- 💡 Constant learner exploring the intersection between **software design** and **user experience**.
+---
+
+### 🧠 About Me  
+I’m a **Systems Engineer** and **Full-Stack Developer** passionate about building high-performance, scalable applications using **Flutter** and modern backend stacks.  
+I thrive on designing clean architectures, creating robust data flows, and crafting smooth user experiences across **mobile**, **web**, and **desktop** platforms.
+
+- 🚀 Focused on **clean architecture**, **BLoC pattern**, and **state synchronization**  
+- ⚙️ Experienced integrating **KYC workflows with MetaMap** and secure **Supabase** backends  
+- 🧩 Advocate for **modularity**, **testability**, and **maintainability**  
+- 💡 Constant learner exploring new paradigms in **real-time systems** and **user experience design**
 
 ---
 
@@ -56,11 +62,21 @@ I enjoy tackling complex technical problems, creating maintainable architectures
 
 ---
 
-### 🚀 Currently Building
-- 🧱 Scalable Flutter architectures with **BLoC**, **Supabase**, and **Hive/Isar** for local persistence.  
-- 📡 Real-time tracking and map visualization using **Google Maps** and **Supabase Channels**.  
-- 🔔 Smart notification systems and event-driven features powered by **Edge Functions**.  
-- 🧭 Multi-platform experiences with shared logic across **mobile**, **web**, and **desktop**.
+### 🧭 Currently Exploring
+- 🧠 Advanced **state management** and **multi-layer caching** in large Flutter monorepos  
+- 🔐 KYC identity verification with **MetaMap**  
+- ☁️ Serverless backends using **Supabase Edge Functions** and event-driven architectures  
+- 🧩 Combining **real-time data streaming** with **local persistence**
+
+---
+
+### 🏆 Professional Highlights
+- 🚀 Designed and built **scalable Flutter architectures** using **BLoC**, **Supabase**, and **Hive/Isar**.  
+- 🌍 Led development of **cross-platform apps** with shared business logic across mobile, web, and desktop.  
+- 🔐 Integrated **MetaMap KYC verification** for identity and compliance workflows.  
+- 📡 Developed **real-time features** powered by **Supabase Channels** and custom **Edge Functions**.  
+- 🧩 Contributed to **multi-module monorepos**, improving performance and reducing API overhead by up to **40%**.  
+- 🧠 Mentored junior devs on **Flutter state management**, **architecture design**, and **clean code principles**.
 
 ---
 
@@ -82,3 +98,7 @@ I enjoy tackling complex technical problems, creating maintainable architectures
 > — *Fernando Medina*
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:58A6FF&height=120&section=footer"/>
+</p>
