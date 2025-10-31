@@ -67,12 +67,12 @@ I enjoy tackling complex technical problems, creating maintainable architectures
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandomedina&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=58A6FF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandomedina&layout=compact&theme=react&hide_border=true&bg_color=0D1117&text_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FerMedina18&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=58A6FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerMedina18&layout=compact&theme=react&hide_border=true&bg_color=0D1117&text_color=FFFFFF" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fernandomedina&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=FerMedina18&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 </p>
 
 ---
