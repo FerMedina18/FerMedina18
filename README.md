@@ -3,7 +3,7 @@
 <h3 align="center">Systems Engineer | Full-Stack Developer | Flutter Specialist</h3>
 
 <p align="center">
-  <a href="https://github.com/FerMedina18"><img src="https://img.shields.io/badge/GitHub-Fernando%20Medina-181717?style=flat-square&logo=github"></a>
+  <a href="https://github.com/FerMedina18"><img src="https://img.shields.io/badge/GitHub-FerMedina18-181717?style=flat-square&logo=github"></a>
   <a href="mailto:fernando.medina@netforemost.com"><img src="https://img.shields.io/badge/Email-fernando.medina%40netforemost.com-blue?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/fernando-medina-arana"><img src="https://img.shields.io/badge/LinkedIn-Fernando%20Medina-0A66C2?style=flat-square&logo=linkedin"></a>
 </p>
