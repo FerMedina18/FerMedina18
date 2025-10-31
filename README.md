@@ -75,9 +75,8 @@ I thrive on designing clean architectures, creating robust data flows, and craft
 - 🌍 Led development of **cross-platform apps** with shared business logic across mobile, web, and desktop.  
 - 🔐 Integrated **MetaMap KYC verification** for identity and compliance workflows.  
 - 📡 Developed **real-time features** powered by **Supabase Channels** and custom **Edge Functions**.  
-- 🧩 Contributed to **multi-module monorepos**, improving performance and reducing API overhead by up to **40%**.  
-- 🧠 Mentored junior devs on **Flutter state management**, **architecture design**, and **clean code principles**.
-
+- 🧩 Contributed to **multi-module monorepos**, improving performance and reducing API overhead by up to **40%**.
+  
 ---
 
 ### 📊 GitHub Analytics
